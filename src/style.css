@@ -18,8 +18,12 @@ main {
     border-style: solid;
     margin-left: .4em;
     padding: .0em .5em .1em .5em;
-    margin-bottom: .5em;
+    margin-bottom: .8em;
     margin-top: .3em;
+}
+
+.email {
+    margin-bottom: 1.1rem;
 }
 
 h1 {
